@@ -1,4 +1,4 @@
-```markdown
+
 # 🎓 React UNIESP - Aulas
 
 Este repositório contém as atividades realizadas nas aulas de React para o curso da UNIESP. Cada aula inclui exercícios práticos de aprendizado sobre os conceitos fundamentais do React, como componentes, renderização condicional, hooks, entre outros.
@@ -11,7 +11,7 @@ Este repositório contém as atividades realizadas nas aulas de React para o cur
 
 ### Resultado
 
-![Aula 00 - Hello World](public/prints/aula00.png)
+![Aula 00 - Hello World](./public/prints/aula00.png)
 
 ---
 
@@ -21,7 +21,7 @@ Este repositório contém as atividades realizadas nas aulas de React para o cur
 
 ### Resultado
 
-![Aula 01 - Operações Matemáticas](public/prints/aula01.png)
+![Aula 01 - Operações Matemáticas](./public/prints/aula01.png)
 
 ---
 
@@ -35,7 +35,7 @@ Este repositório contém as atividades realizadas nas aulas de React para o cur
 
 ### Resultado
 
-![Aula 02 - Contador](public/prints/aula02.png)
+![Aula 02 - Contador](./public/prints/aula02.png)
 
 ### 🎰 Exercício 2: Mega Sena
 
@@ -43,7 +43,7 @@ Este repositório contém as atividades realizadas nas aulas de React para o cur
 
 ### Resultado
 
-![Aula 02 - Mega Sena](public/prints/aula02.png)
+![Aula 02 - Mega Sena](./public/prints/aula02.png)
 
 ---
 
@@ -57,7 +57,7 @@ Este repositório contém as atividades realizadas nas aulas de React para o cur
 
 ### Resultado
 
-![Aula 03 - Verificando se está indo bem](public/prints/aula03.png)
+![Aula 03 - Verificando se está indo bem](./public/prints/aula03.png)
 
 ### 👨‍🎓 Exercício 2: Renderizando Alunos
 
@@ -65,7 +65,7 @@ Este repositório contém as atividades realizadas nas aulas de React para o cur
 
 ### Resultado
 
-![Aula 03 - Renderizando Alunos](public/prints/aula03.png)
+![Aula 03 - Renderizando Alunos](./public/prints/aula03.png)
 
 ---
 
@@ -96,3 +96,5 @@ Este repositório contém as atividades realizadas nas aulas de React para o cur
    ```
 
 Isso iniciará o servidor de desenvolvimento e abrirá o projeto em `http://localhost:3000`.
+
+---
